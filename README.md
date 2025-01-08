@@ -55,8 +55,10 @@ acl = private
 
 ## Reference
 
+[mongodump](https://www.mongodb.com/docs/database-tools/mongodump/)
+
 [rclone installation](https://rclone.org/install/#linux)
 
-[Config rclone](https://rclone.org/s3/#cloudflare-r2)
+[rclone config](https://rclone.org/s3/#cloudflare-r2)
 
-[Cron](https://en.wikipedia.org/wiki/Cron)
+[cron](https://en.wikipedia.org/wiki/Cron)
